@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7825ff0e167803c4dbffab42f43c4952, type: 3}
+  m_Name: CardConfig
+  m_EditorClassIdentifier: 
+  factionColors:
+  - {r: 0.8018868, g: 0.69182265, b: 0.5333304, a: 1}
+  - {r: 0.606821, g: 0.5226504, b: 0.8207547, a: 1}
+  - {r: 0.6792453, g: 0.33641866, b: 0.33641866, a: 1}
+  - {r: 0.18605375, g: 0.33644205, b: 0.3490566, a: 1}
+  - {r: 0.4316986, g: 0.6792453, b: 0.33641866, a: 1}
+  orientationColors:
+  - {r: 0.8, g: 0.5372549, b: 0.22352941, a: 1}
+  - {r: 0.4117647, g: 0.78431374, b: 0.49019608, a: 1}
+  originColors:
+  - {r: 0.5188679, g: 0.399375, b: 0.21293165, a: 1}
+  - {r: 0.4753427, g: 0.29957277, b: 0.6415094, a: 1}
+  - {r: 0.5, g: 0.5, b: 0.5, a: 1}
+  typeColors:
+  - {r: 0.8113208, g: 0.36681637, b: 0.14925243, a: 1}
+  - {r: 0.8, g: 0.22352938, b: 0.27051562, a: 1}
+  - {r: 0.7264151, g: 0.26383942, b: 0.48441425, a: 1}
+  rarityColors:
+  - {r: 0.6226415, g: 0.6226415, b: 0.6226415, a: 1}
+  - {r: 0.28635636, g: 0.44819537, b: 0.6132076, a: 1}
+  - {r: 0.41853628, g: 0.26873443, b: 0.5754717, a: 1}
