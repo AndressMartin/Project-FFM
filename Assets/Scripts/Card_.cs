@@ -1,8 +1,9 @@
 using System.Collections;
 using System.Collections.Generic;
+using UnityEditor;
 using UnityEngine;
 
-public class Card : ScriptableObject
+public class Card_ : ScriptableObject
 {
     [Header("Type")]
     public CardEnums.Orientation orientation;

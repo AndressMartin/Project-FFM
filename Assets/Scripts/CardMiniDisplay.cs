@@ -6,7 +6,7 @@ using UnityEngine.UI;
 
 public class CardMiniDisplay : MonoBehaviour
 {
-    public ActionCard card;
+    public ActionCard_ card;
     public Image cardImage;
     public TextMeshProUGUI actionCost;
     private void Start()
